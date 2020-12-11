@@ -1,1 +1,1 @@
-# poc-news-lang
+# nyusu
